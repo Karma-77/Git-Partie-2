@@ -1,0 +1,15 @@
+Votre premier script
+Une bonne nouvelle au programme : on va vraiment commencer à coder en JS !
+
+Vous allez créer votre premier script : à la fin de ce chapitre, vous serez capable d'afficher des boîtes de dialogue (contenant un message).
+Rien d'impressionnant, certes, mais ces boîtes de dialogue vous seront fort utiles pour la suite...
+
+Logiciels nécessaires
+Comme j'ai pu vous le dire dans le premier chapitre, le JavaScript est un langage facile à mettre en oeuvre.
+De même que pour créer une page (x)HTML, il vous suffit :
+
+d'un éditeur de texte : Bloc-notes est suffisant, mais d'autres logiciels offrent plus d'options, comme la coloration syntaxique, qui est très appréciable.
+Notepad++ (que vous possédez peut-être déjà... ) en est un bon exemple.
+d'un navigateur : FireFox, avec le plugin Web Developer, est parfaitement approprié pour cela.
+Cependant, pour vérifier la compatibilité de vos scripts, il peut être utile de les tester sur plusieurs des navigateurs les plus courants (Internet Explorer 6, Opera et Firefox étant les références pour les PC).
+Liens vers les sites de Notepad++, FireFox et Web Developer.
